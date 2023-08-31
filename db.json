@@ -1,0 +1,432 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "contact": [
+    {
+      "name": "paras",
+      "email": "parasvekariya2000@gmail.com",
+      "subject": "hiiii",
+      "message": "hello",
+      "id": 1
+    }
+  ],
+  "catagery": [
+    {
+      "category": "breakfast",
+      "id": 1
+    },
+    {
+      "category": "lunch",
+      "id": 2
+    },
+    {
+      "category": "Dinner",
+      "id": 3
+    }
+  ],
+  "ourteammaster": [
+    {
+      "teammastername": "BOb Brouni",
+      "teammasterimgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHC-05ePj8TrBQy9nH6oznUtQKDUSV8yM2w&usqp=CAU",
+      "teammasterdetail": "Master Chef",
+      "id": 1
+    },
+    {
+      "teammastername": "Markes Grover",
+      "teammasterimgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_zkKSBBLDdwre9imA-B0csL0IFX8ZaC21-gPOP2X9ZhG3kxTZ6uNKN75ysuUwImYr9A&usqp=CAU",
+      "teammasterdetail": "Master Cook",
+      "id": 2
+    },
+    {
+      "teammastername": "John Deo",
+      "teammasterimgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzA5VZggdG40JdjlASPspYvrPw2-P6NnEv1A&usqp=CAU",
+      "teammasterdetail": "Chef",
+      "id": 3
+    },
+    {
+      "teammastername": "Remo Dishuza",
+      "teammasterimgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC73vNtwjZVXOc2yXa8sm-fZPuY53ceq6csQ&usqp=CAU",
+      "teammasterdetail": "Master Chef",
+      "id": 4
+    }
+  ],
+  "BookTable": [
+    {
+      "name": "vamja axit",
+      "email": "vamjaaxit111@gmail.com",
+      "subject": "Dinner",
+      "date": "2023-08-28",
+      "time": "23:04",
+      "people": "21",
+      "message": "good",
+      "id": 1
+    },
+    {
+      "name": "Vamja axit",
+      "email": "vamjaaxit111@gmail.com",
+      "subject": "Dinner",
+      "date": "2023-08-30",
+      "time": "20:00",
+      "people": "5",
+      "message": "good food",
+      "id": 2
+    },
+    {
+      "name": "paras",
+      "email": "parasvekariya2000@gmail.com",
+      "subject": "good food",
+      "date": "2023-04-23",
+      "time": "07:07",
+      "people": "4",
+      "message": "good food",
+      "id": 3
+    }
+  ],
+  "image": [
+    {
+      "imgtitle": "image-1",
+      "imgurl": "https://t3.ftcdn.net/jpg/02/93/22/02/240_F_293220207_aSKIua6mTAymZDbIJOSOApeJ7vNoD6Zd.jpg",
+      "id": 1
+    },
+    {
+      "imgtitle": "image-2",
+      "imgurl": "https://t3.ftcdn.net/jpg/02/49/69/60/240_F_249696008_aqAoTlkn4r23TJfSvsB3drmEUqAU1AER.jpg",
+      "id": 2
+    },
+    {
+      "imgtitle": "image-3",
+      "imgurl": "https://t3.ftcdn.net/jpg/03/19/44/92/240_F_319449274_QUXTvM3BKUpZ67rtm22bUhOFxwmLlPa1.jpg",
+      "id": 3
+    },
+    {
+      "imgtitle": "image-4",
+      "imgurl": "https://t4.ftcdn.net/jpg/03/01/53/17/240_F_301531759_USmXJ7fTC7GcM0a54X0HUSDyEgqThXs1.jpg",
+      "id": 4
+    }
+  ],
+  "menu": [
+    {
+      "productcategory": "breakfast",
+      "productname": "Tea",
+      "productdeatail": "Rs.10 /Half",
+      "productimgurl": "https://t3.ftcdn.net/jpg/01/15/51/14/240_F_115511405_akTW2OTt7vOFViJzkSwxht0IvxTZSznt.jpg",
+      "id": 1
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Coffee",
+      "productdeatail": "Rs.15 /Half",
+      "productimgurl": "https://t4.ftcdn.net/jpg/01/16/61/93/240_F_116619399_YA611bKNOW35ffK0OiyuaOcjAgXgKBui.jpg",
+      "id": 2
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Gathiya",
+      "productdeatail": "Rs.30 /100gm",
+      "productimgurl": "https://live.staticflickr.com/7646/16961816921_2ed2c4600f_z.jpg",
+      "id": 3
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Thepla",
+      "productdeatail": "Rs.40 /5pcs",
+      "productimgurl": "https://t4.ftcdn.net/jpg/03/11/82/97/240_F_311829710_axUQogk2kpxkE0gzWBdrmfR0cFMJXXjy.jpg",
+      "id": 4
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Khakhra",
+      "productdeatail": "Rs.40 /5pcs",
+      "productimgurl": "https://t3.ftcdn.net/jpg/03/65/20/46/240_F_365204683_rek1rBFjYI2WP4bAGSInIO3agp6AaTzH.jpg",
+      "id": 5
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Sandwich",
+      "productdeatail": "Rs.15 /1pcs",
+      "productimgurl": "https://t4.ftcdn.net/jpg/03/32/76/85/240_F_332768568_NCMldPxcZGGjMwoKm6EJlGGg8U9Ggqet.jpg",
+      "id": 6
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Poha",
+      "productdeatail": "Rs.20 /100gm",
+      "productimgurl": "https://t3.ftcdn.net/jpg/04/10/90/08/240_F_410900863_disE1D0fEgGZUkSPSWSwSQ2SnhuqcUC5.jpg",
+      "id": 7
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Butter-Tost",
+      "productdeatail": "Rs.20/4pcs",
+      "productimgurl": "https://t3.ftcdn.net/jpg/03/90/21/34/240_F_390213430_ynVF4oj0jd6wEW9PbNFdIQDByAGKbQAQ.jpg",
+      "id": 8
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Khaman Dhokla",
+      "productdeatail": "rs.15 /100gm",
+      "productimgurl": "https://t3.ftcdn.net/jpg/01/70/38/52/240_F_170385226_0K3IgOcM0csM9YU5u1ZUeIija2WtNenE.jpg",
+      "id": 9
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Jalebi",
+      "productdeatail": "Rs.30/100gm",
+      "productimgurl": "https://t4.ftcdn.net/jpg/04/02/64/13/240_F_402641396_FrqmI5MgDB7jyKKr5hYguhdgNp9vnESt.jpg",
+      "id": 10
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Masala Dosa",
+      "productdeatail": "Rs.50 /1pcs",
+      "productimgurl": "https://t3.ftcdn.net/jpg/05/05/40/28/240_F_505402811_prL7D5Go35LZKpQeUVEUiCLnO6spS3sk.jpg",
+      "id": 11
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "idli Sambhar",
+      "productdeatail": "Rs.40 /4pcs",
+      "productimgurl": "https://t3.ftcdn.net/jpg/04/02/12/80/240_F_402128075_06J9Y69ScRrYKFpQr1PAH0L7YziB83ry.jpg",
+      "id": 12
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Upma",
+      "productdeatail": "Rs.20 /1pcs",
+      "productimgurl": "https://t3.ftcdn.net/jpg/02/45/09/36/240_F_245093618_UBTNjpxMdMHR7Aup9SflZMxRikpxOpki.jpg",
+      "id": 13
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Uttapam",
+      "productdeatail": "Rs.35 /1plat",
+      "productimgurl": "https://t3.ftcdn.net/jpg/01/13/13/00/240_F_113130038_RAVuJCC6dykBwXONvr70kn7Vj8S44ryM.jpg",
+      "id": 14
+    },
+    {
+      "productcategory": "breakfast",
+      "productname": "Vada",
+      "productdeatail": "Rs.35 /5pcs",
+      "productimgurl": "https://t4.ftcdn.net/jpg/04/93/56/75/240_F_493567592_wijZ9m7d1RtxuyoYF7ACHMaDmUvgi4ty.jpg",
+      "id": 15
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Main Course",
+      "productdeatail": "Rs.299 Unlimited",
+      "productimgurl": "https://t3.ftcdn.net/jpg/04/19/47/24/240_F_419472455_FffQgJ78Zvyt2r939nbG1qpbvx8zfTqk.jpg",
+      "id": 16
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Gujrati Thali",
+      "productdeatail": "Rs.180 Unlimited",
+      "productimgurl": "https://4.imimg.com/data4/AP/VG/ANDROID-37526939/product-500x500.jpeg",
+      "id": 17
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Punjabi Thali",
+      "productdeatail": "Rs.220 Unlimited",
+      "productimgurl": "https://previews.123rf.com/images/drozdirina/drozdirina2305/drozdirina230500545/205047479-fresh-raw-vegetable-ingredients-for-healthy-cooking-or-salad-making-generative-ai.jpg",
+      "id": 18
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Soup",
+      "productdeatail": "",
+      "productimgurl": "https://t4.ftcdn.net/jpg/05/91/72/71/240_F_591727133_UVsHrjFEdm7K7sZhQe1GTLkbqiLbX4RR.jpg",
+      "id": 19
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Chass",
+      "productdeatail": "",
+      "productimgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMWXKREbfn4wEnrkd3wKpE_skpcLryGjqMQ&usqp=CAU",
+      "id": 20
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "papad",
+      "productdeatail": "",
+      "productimgurl": "https://t4.ftcdn.net/jpg/00/55/23/19/240_F_55231952_mE2OfUMAO3d4fkG92NYKNaWtj2cEdVgF.jpg",
+      "id": 21
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Gujrati Thali",
+      "productdeatail": "",
+      "productimgurl": "https://4.imimg.com/data4/AP/VG/ANDROID-37526939/product-500x500.jpeg",
+      "id": 22
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Punjabi",
+      "productdeatail": "",
+      "productimgurl": "https://previews.123rf.com/images/drozdirina/drozdirina2305/drozdirina230500545/205047479-fresh-raw-vegetable-ingredients-for-healthy-cooking-or-salad-making-generative-ai.jpg",
+      "id": 23
+    },
+    {
+      "productcategory": "lunch",
+      "productname": "Chainse",
+      "productdeatail": "",
+      "productimgurl": "https://media.gettyimages.com/id/1366953086/photo/korean-dishes.jpg?s=612x612&w=gi&k=20&c=CYke1Bah8U3hUxt0B_kznVO8lCBMTc7kMZG7KJyAvSQ=",
+      "id": 24
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Main Course",
+      "productdeatail": "Rs.299 Unlimited",
+      "productimgurl": "https://t3.ftcdn.net/jpg/04/19/47/24/240_F_419472455_FffQgJ78Zvyt2r939nbG1qpbvx8zfTqk.jpg",
+      "id": 25
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Gujrati",
+      "productdeatail": "Rs.180 Unlimited",
+      "productimgurl": "https://4.imimg.com/data4/AP/VG/ANDROID-37526939/product-500x500.jpeg",
+      "id": 26
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Punjabi Thali",
+      "productdeatail": "Rs.220 Unlimited",
+      "productimgurl": "https://previews.123rf.com/images/drozdirina/drozdirina2305/drozdirina230500545/205047479-fresh-raw-vegetable-ingredients-for-healthy-cooking-or-salad-making-generative-ai.jpg",
+      "id": 27
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Pizza",
+      "productdeatail": "Rs.279 Unlimited",
+      "productimgurl": "https://t3.ftcdn.net/jpg/00/27/57/96/240_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+      "id": 28
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Pasta",
+      "productdeatail": "Rs.239 Unlimited",
+      "productimgurl": "https://t3.ftcdn.net/jpg/02/71/89/10/240_F_271891053_cuzs6l2mWLfJQxawShjA46W4XaED9yhb.jpg",
+      "id": 29
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Dosa",
+      "productdeatail": "Rs.249 Unlimited",
+      "productimgurl": "https://t4.ftcdn.net/jpg/06/06/52/83/240_F_606528302_INQN79OHfQqasauq3d3hnzZ97gX5HcRd.jpg",
+      "id": 30
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Soup",
+      "productdeatail": "",
+      "productimgurl": "https://t4.ftcdn.net/jpg/05/91/72/71/240_F_591727133_UVsHrjFEdm7K7sZhQe1GTLkbqiLbX4RR.jpg",
+      "id": 31
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Chass",
+      "productdeatail": "",
+      "productimgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMWXKREbfn4wEnrkd3wKpE_skpcLryGjqMQ&usqp=CAU",
+      "id": 32
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "papad",
+      "productdeatail": "",
+      "productimgurl": "https://t4.ftcdn.net/jpg/00/55/23/19/240_F_55231952_mE2OfUMAO3d4fkG92NYKNaWtj2cEdVgF.jpg",
+      "id": 33
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Gujrati Thali",
+      "productdeatail": "",
+      "productimgurl": "https://4.imimg.com/data4/AP/VG/ANDROID-37526939/product-500x500.jpeg",
+      "id": 34
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Punjabi",
+      "productdeatail": "",
+      "productimgurl": "https://previews.123rf.com/images/drozdirina/drozdirina2305/drozdirina230500545/205047479-fresh-raw-vegetable-ingredients-for-healthy-cooking-or-salad-making-generative-ai.jpg",
+      "id": 35
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Chainse",
+      "productdeatail": "",
+      "productimgurl": "https://media.gettyimages.com/id/1366953086/photo/korean-dishes.jpg?s=612x612&w=gi&k=20&c=CYke1Bah8U3hUxt0B_kznVO8lCBMTc7kMZG7KJyAvSQ=",
+      "id": 36
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Pavbhaji",
+      "productdeatail": "",
+      "productimgurl": "https://t3.ftcdn.net/jpg/01/97/30/70/240_F_197307004_3TacS5tBy63TQuR9YQlBKknQ0tUYoath.jpg",
+      "id": 37
+    },
+    {
+      "productcategory": "Dinner",
+      "productname": "Cold-Drinks",
+      "productdeatail": "",
+      "productimgurl": "https://t4.ftcdn.net/jpg/03/23/21/71/240_F_323217105_X0pR4jWfXAGqzAeLmsUBmuo5ajDNSiPq.jpg",
+      "id": 38
+    }
+  ],
+  "gallery": [
+    {
+      "Galleryimgtitle": "image-1",
+      "Galleryimgurl": "https://t4.ftcdn.net/jpg/01/11/47/91/240_F_111479179_SCieVGQt3bzNSyjzDpFlFPOmWTxrsKKA.jpg",
+      "id": 1
+    },
+    {
+      "Galleryimgtitle": "image-2",
+      "Galleryimgurl": "https://t3.ftcdn.net/jpg/06/18/81/82/240_F_618818295_r0qCi2raNI2gkVARYKNAsexuOwyuIIZa.jpg",
+      "id": 2
+    },
+    {
+      "Galleryimgtitle": "image-3",
+      "Galleryimgurl": "https://t4.ftcdn.net/jpg/06/11/32/21/240_F_611322155_cSFtkUxASHexUe75924oWz4HapTnlC25.jpg",
+      "id": 3
+    },
+    {
+      "Galleryimgtitle": "image-4",
+      "Galleryimgurl": "https://t4.ftcdn.net/jpg/06/20/49/61/240_F_620496105_OsRRIcm2OBV1vo7D9D06tXnXLayGyfof.jpg",
+      "id": 4
+    },
+    {
+      "Galleryimgtitle": "image-5",
+      "Galleryimgurl": "https://t3.ftcdn.net/jpg/06/22/08/32/240_F_622083244_pX4UQG1v1y3x6NAehTQmJss8AqKmOfQc.jpg",
+      "id": 5
+    },
+    {
+      "Galleryimgtitle": "image-6",
+      "Galleryimgurl": "https://t3.ftcdn.net/jpg/04/92/08/72/240_F_492087236_Zd6nsM9LRQft3k1KEx4nQPMej6GjOeiX.jpg",
+      "id": 6
+    },
+    {
+      "Galleryimgtitle": "image-7",
+      "Galleryimgurl": "https://t4.ftcdn.net/jpg/05/99/85/99/240_F_599859904_IYKdiMbyKLK9Tt2eotaVQOlXCfp6Rqzj.jpg",
+      "id": 7
+    },
+    {
+      "Galleryimgtitle": "image-8",
+      "Galleryimgurl": "https://t3.ftcdn.net/jpg/06/23/83/04/240_F_623830460_giwFmG0k1VQMZ6WcqyBIOrYp6J3QHbnw.jpg",
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
